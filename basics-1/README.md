@@ -32,3 +32,25 @@ const color: string = 'red;
 ### Typed Array
 
 - Arrays where each element is some consistent type of value
+- Where to use typed arrays? : Any time we need to represenet a collection of records with some arbitrary sort order
+
+### Tuples
+
+- Array-like structure where each element represents some property of a record
+- We don't use them often though. Object is more meaningful
+
+### Interfaces
+
+- General Strategy for Reusable Code in TS
+  - Create functions that accept arguments that are typed with interfaces
+  - Objects/classes can decide to 'implement' a given interface to work with a function
+
+### Classes
+
+- Blueprint to create an object with some fields(values) and methods(functions) to represent a 'thing'
+
+##### Modifiers in Classes:
+
+- **public**: This method can be called any where, any time
+- **private**: This method can only be called by other methods in this class
+- **protected**: This method can be called by other methods in this class, or by other methods in child classes.
