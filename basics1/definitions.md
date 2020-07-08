@@ -1,3 +1,5 @@
+# Type Annotations
+
 ## TYPE INFERENCE: Typescript guesses the type
 
 - if declaration and initilization are on the same line TypeScript will figure out type of variable.
