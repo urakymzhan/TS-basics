@@ -3,7 +3,7 @@
 ## TYPE INFERENCE: Typescript guesses the type
 
 - if declaration and initilization are on the same line TypeScript will figure out type of variable.
-- When to use 'Alwyas'
+- When to use - Always
 
 ```
 const color = 'red;
