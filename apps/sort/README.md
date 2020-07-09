@@ -18,6 +18,6 @@ Sorting Algorithms Example used:
 
 #### Tags
 
-**Type Guards** (works but bad logic and long)
-**Interface** (better logic). Look for ./assets/sort.png
-**Abstract Class** (best logic) Look for ./assets
+- **Type Guards** (works but bad logic and long)
+- **Interface** (better logic). Look for ./assets/sort.png
+- **Abstract Class** (best logic) Look for ./assets
