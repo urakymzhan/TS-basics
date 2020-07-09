@@ -6,3 +6,5 @@
 #### run
 
 - parcel index.html
+
+note: tsc _.ts will compile to _.js file
