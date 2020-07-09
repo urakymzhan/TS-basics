@@ -1,0 +1,23 @@
+{
+  "name": "typescript-basics",
+  "version": "1.0.0",
+  "description": "- TypeScript **Basics** to **Expert** folder structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urakymzhan/TS-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urakymzhan/TS-basics/issues"
+  },
+  "homepage": "https://github.com/urakymzhan/TS-basics#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}

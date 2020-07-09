@@ -1,5 +1,7 @@
 ## MAPS
 
+> App focuses on Type Definition Files, Interfaces, Design Patterns in Typescript
+
 - type definitions files @types{library name}
 - used parcel-bundler
 

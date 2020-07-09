@@ -1,5 +1,7 @@
 # SORT APP
 
+> App focuses on Interfaces, Abstract Classes, Design Patterns in Typescript
+
 We want to build a sorting algorithm to sort many types of data structures: Arrays, String, LinkedList.
 
 Sorting Algorithms Example used:

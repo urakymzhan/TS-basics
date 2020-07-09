@@ -2,4 +2,4 @@
 
 - TypeScript **Basics** to **Expert** folder structure
 
-> Information here learned from Stephen Griders course.
+> Information here credits to: Stephen Griders.

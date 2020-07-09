@@ -54,3 +54,13 @@ const color: string = 'red;
 - **public**: This method can be called any where, any time
 - **private**: This method can only be called by other methods in this class
 - **protected**: This method can be called by other methods in this class, or by other methods in child classes.
+
+### Decorators
+
+- Decorators in TS is different than JS
+- Decorators only called once when we define the class and not on instanse of a class (!important)
+- syntactic sugar
+
+### Metadata
+
+- metadata - lets us attach special piece of information that doesn't come up in inspect etc.
